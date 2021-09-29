@@ -1,3 +1,4 @@
+/*Copyright 2021 Cognitive Medical Systems*/
 package io.saperi.nih.vasc.cli;
 
 import java.util.HashMap;
